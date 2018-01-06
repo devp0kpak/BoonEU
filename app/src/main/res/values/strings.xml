@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BoonEU</string>
+
+    <!-- Segment Menu -->
+    <string name="txt_menu_1">Calendar</string>
+    <string name="txt_menu_2">Boon Event</string>
+</resources>

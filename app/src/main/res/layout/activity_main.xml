@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="network.dhammakaya.booneu.MainActivity">
+
+    <co.ceryle.segmentedbutton.SegmentedButtonGroup
+        android:id="@+id/segmentButtonTabProfile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="2dp"
+        app:sbg_animateSelector="fastOutSlowIn"
+        app:sbg_animateSelectorDuration="500"
+        app:sbg_backgroundColor="@android:color/white"
+        app:sbg_dividerColor="@color/color_menu"
+        app:sbg_dividerSize="1dp"
+        app:sbg_position="1"
+        app:sbg_radius="5dp"
+        app:sbg_ripple="true"
+        app:sbg_rippleColor="@color/color_menu"
+        app:sbg_selectorColor="@color/color_menu"
+        app:sbg_selectorTextColor="@android:color/white"
+        app:sbg_shadowMargin="4dp"
+        app:sbg_borderColor="@color/color_menu"
+        app:sbg_borderSize="1dp">
+
+        <Button
+            android:id="@+id/btnShowClassGroup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minHeight="10dp"
+            android:text="@string/txt_menu_1"
+            android:textSize="16sp"
+            android:textAllCaps="false"
+            android:textColor="@color/color_menu" />
+
+        <Button
+            android:id="@+id/btnShowHomework"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minHeight="10dp"
+            android:text="@string/txt_menu_2"
+            android:textSize="16sp"
+            android:textAllCaps="false"
+            android:textColor="@color/color_menu"/>
+
+    </co.ceryle.segmentedbutton.SegmentedButtonGroup>
+
+
+</LinearLayout>
