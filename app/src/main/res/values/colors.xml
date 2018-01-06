@@ -8,7 +8,8 @@
     <!-- Segment Theme Color -->
     <color name="color_menu">#FF6D00</color>
 
-
+    <!-- Top Title -->
+    <color name="color_top_title">#F9A825</color>
 
 
     <!-- Material Design - Color Palette -->

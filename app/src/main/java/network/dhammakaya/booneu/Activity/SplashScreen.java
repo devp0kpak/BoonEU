@@ -1,8 +1,10 @@
-package network.dhammakaya.booneu;
+package network.dhammakaya.booneu.Activity;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import network.dhammakaya.booneu.R;
 
 public class SplashScreen extends AppCompatActivity {
 

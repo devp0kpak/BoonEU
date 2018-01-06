@@ -1,7 +1,9 @@
-package network.dhammakaya.booneu;
+package network.dhammakaya.booneu.Activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import network.dhammakaya.booneu.R;
 
 public class MainActivity extends AppCompatActivity {
 
