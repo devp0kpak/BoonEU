@@ -6,11 +6,17 @@
     <color name="colorAccent">#FF4081</color>
 
     <!-- Segment Theme Color -->
-    <color name="color_menu">#FF6D00</color>
+    <color name="color_menu">#FFA300</color>
 
     <!-- Top Title -->
-    <color name="color_top_title">#F9A825</color>
+    <color name="color_top_title">#FFA300</color>
 
+
+    <!-- List BG Color -->
+    <color name="color_bg_list">#F57C00</color>
+
+    <!-- List Text Color -->
+    <color name="color_txt_list">#FFD600</color>
 
     <!-- Material Design - Color Palette -->
     <!-- Date: 1/15/2015 -->

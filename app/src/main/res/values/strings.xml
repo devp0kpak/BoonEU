@@ -8,6 +8,17 @@
     <!-- Top Text -->
     <string name="top_title_list">All Boon Event</string>
 
+    <!-- Text for list -->
+    <string name="txt_day_month_year">1 มกราคม 2561</string>
+    <string name="title_list">อาทิตย์ต้นเดือน</string>
+
+    <string name="detail_1">สถานที่ : </string>
+    <string name="detail_2">เวลา  : </string>
+
+    <string name="detail_1_txt">วัดพระธรรมกาย</string>
+    <string name="detail_2_txt">09.00 - 18.00 น.</string>
+
+
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
